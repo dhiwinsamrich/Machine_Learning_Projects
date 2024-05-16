@@ -65,7 +65,20 @@ Explore a diverse range of machine learning projects and algorithms, covering to
    - LIME (Local Interpretable Model-agnostic Explanations)
 
 ---
-## 🖥️🖥 Projects 
+## 📂 Projects
+
+1. **Age and Gender Detection**  
+   - **Description:** This project aims to develop a robust machine learning model capable of predicting the age and gender of individuals from images. Leveraging deep learning techniques, such as convolutional neural networks (CNNs), the model learns to analyze facial features and extract relevant information for accurate age and gender classification. By training on diverse datasets containing labeled facial images, the model can generalize well to unseen data and provide insights into demographic characteristics from visual data.
+
+2. **ASR (Automatic Speech Recognition)**  
+   - **Description:** Automatic Speech Recognition (ASR) is a fundamental task in natural language processing, enabling the conversion of spoken language into text. This project focuses on implementing an ASR system using machine learning techniques, including deep learning models such as recurrent neural networks (RNNs) or transformer architectures. By training on large audio datasets containing transcribed speech, the model learns to recognize and transcribe spoken words accurately, opening up possibilities for applications such as voice-controlled interfaces, transcription services, and speech-to-text conversion.
+
+3. **Blur Faces**  
+   - **Description:** Privacy protection is paramount in today's digital age, especially when dealing with sensitive visual data containing individuals' faces. The Blur Faces project aims to address this challenge by utilizing machine learning algorithms to detect and blur faces in images or videos. Leveraging techniques such as object detection and image processing, the project involves training models to identify facial regions within visual data and apply blurring or anonymization techniques to protect individuals' identities. This project is particularly useful in scenarios where privacy concerns mandate the anonymization of facial data while preserving the integrity of the underlying information.
+
+*(More projects to come)*  
+   - Stay tuned for additional machine learning projects to be added to this repository. There's always more to explore and create in the field of machine learning!
+ 
 
 ---
 
