@@ -76,6 +76,24 @@ Explore a diverse range of machine learning projects and algorithms, covering to
 3. **Blur Faces**  
    - **Description:** Privacy protection is paramount in today's digital age, especially when dealing with sensitive visual data containing individuals' faces. The Blur Faces project aims to address this challenge by utilizing machine learning algorithms to detect and blur faces in images or videos. Leveraging techniques such as object detection and image processing, the project involves training models to identify facial regions within visual data and apply blurring or anonymization techniques to protect individuals' identities. This project is particularly useful in scenarios where privacy concerns mandate the anonymization of facial data while preserving the integrity of the underlying information.
 
+4. **Clustering Algorithms**  
+   - **Description:** This project implements various clustering algorithms, which are fundamental in unsupervised learning. Clustering is used to group data points into distinct clusters based on similarity. The project covers:
+     - **Affinity Propagation:** Clusters data by sending messages between data points until convergence.
+     - **Agglomerative Clustering:** A hierarchical clustering method that builds nested clusters by merging or splitting them.
+     - **BIRCH (Balanced Iterative Reducing and Clustering using Hierarchies):** Efficiently clusters large datasets by constructing a clustering feature tree.
+     - **DBSCAN (Density-Based Spatial Clustering of Applications with Noise):** Clusters data based on density and identifies noise points.
+     - **GMM (Gaussian Mixture Models):** Probabilistic model that assumes all data points are generated from a mixture of several Gaussian distributions.
+     - **KMeans Clustering:** Partitions data into K distinct clusters based on distance to the cluster centroids.
+     - **MeanShift Clustering:** Clusters data by iteratively shifting points towards the mode (peak) of their density distribution.
+     - **Metrics:** Evaluates the quality of clustering results using various metrics.
+     - **MiniBatch KMeans Clustering:** An optimized version of KMeans that uses mini-batches to reduce computation time.
+     - **OPTICS (Ordering Points To Identify the Clustering Structure):** Similar to DBSCAN but better at identifying clusters of varying density.
+     - **Spectral Clustering:** Uses the spectrum (eigenvalues) of the similarity matrix of the data to perform dimensionality reduction before clustering.
+     - **Time-Diff MiniBatch and KMeans:** Combines time-difference metrics with MiniBatch KMeans for clustering temporal data.
+
+5. **Contour Detector**  
+   - **Description:** This project focuses on detecting and analyzing contours in images. Contours are useful for shape analysis, object detection, and image segmentation. By leveraging image processing techniques, the project identifies the boundaries of objects within an image, allowing for further analysis such as object recognition, measurement of object properties, and image enhancement. Techniques involved may include edge detection algorithms, contour approximation, and the use of computer vision libraries such as OpenCV to implement and visualize contour detection.
+
 *(More projects to come)*  
    - Stay tuned for additional machine learning projects to be added to this repository. There's always more to explore and create in the field of machine learning!
  
