@@ -688,7 +688,7 @@ By integrating machine learning with medical diagnostics, the Malaria Classifica
 
 The Bleu-Score project is a cornerstone for those involved in machine translation and NLP, offering a comprehensive and flexible tool for evaluating the quality of translated and generated text. It supports the development of more accurate and reliable translation systems, contributing significantly to advancements in the field of natural language processing.
 
-34. **Object Detection using YOLO with OpenCV**  
+35. **Object Detection using YOLO with OpenCV**  
    - **Description:** The Object Detection project leverages the powerful YOLO (You Only Look Once) algorithm integrated with OpenCV to provide a high-performance, real-time object detection system. YOLO is a cutting-edge convolutional neural network (CNN) that can detect multiple objects within an image or video frame with remarkable speed and accuracy. This project implements YOLO with OpenCV, a robust computer vision library, to create a versatile and efficient object detection solution.
 
    - **Functionality:**
